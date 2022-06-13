@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <color name="purple_200">#296D98</color>
-    <color name="purple_500">#296D98</color>
-    <color name="purple_700">#296D98</color>
-    <color name="teal_200">#FF03DAC5</color>
+    <color name="grey">#808080</color>
+    <color name="login_green">#2E9E81</color>
+    <color name="white2">#F8FAFB</color>
+    <color name="madang">#c8f7c5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
